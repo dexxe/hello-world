@@ -1,2 +1,2 @@
 # hello-world
-New to this shit.
+New to this.
